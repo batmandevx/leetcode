@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Construct String With Repeat Limit,100.0,0.007082275894700619,https://leetcode.com/problems/construct-string-with-repeat-limit,"Hash Table, String, Greedy, Heap (Priority Queue), Counting"
+EASY,Percentage of Users Attended a Contest,89.2,0.006050568840373433,https://leetcode.com/problems/percentage-of-users-attended-a-contest,Database
+HARD,Number of Ways to Paint N × 3 Grid,89.2,0.008056488189903987,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid,Dynamic Programming
+EASY,Valid Palindrome II,89.2,0.004438468283460832,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"

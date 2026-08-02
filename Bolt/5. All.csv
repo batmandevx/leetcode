@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Check if All Characters Have Equal Number of Occurrences,100.0,0.007958306497193706,https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences,"Hash Table, String, Counting"
+EASY,Best Time to Buy and Sell Stock,85.9,0.00569631233000607,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Subarray Sum Equals K,67.3,0.004756645037736835,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+EASY,Minimum String Length After Removing Substrings,67.3,0.007719099031449652,https://leetcode.com/problems/minimum-string-length-after-removing-substrings,"String, Stack, Simulation"
+MEDIUM,Get Watched Videos by Your Friends,67.3,0.005338179250222206,https://leetcode.com/problems/get-watched-videos-by-your-friends,"Array, Hash Table, Breadth-First Search, Graph Theory, Sorting"

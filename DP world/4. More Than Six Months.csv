@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.007414274765979965,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
+HARD,Set Intersection Size At Least Two,100.0,0.005807367608679003,https://leetcode.com/problems/set-intersection-size-at-least-two,"Array, Greedy, Sorting"
+MEDIUM,Search in Rotated Sorted Array,87.5,0.004509752249803709,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+HARD,Binary Tree Cameras,87.5,0.004795294259026055,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Group Anagrams,87.5,0.007279883851752817,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Find the Duplicate Number,87.5,0.006452347237526352,https://leetcode.com/problems/find-the-duplicate-number,"Array, Two Pointers, Binary Search, Bit Manipulation"
+MEDIUM,Maximal Square,87.5,0.005047489859882992,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,87.5,0.003929945534371603,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Palindromic Substring,87.5,0.0038046356206267824,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

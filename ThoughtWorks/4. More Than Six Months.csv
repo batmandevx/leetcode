@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Maximize the Number of Partitions After Operations,100.0,0.005339332765034098,https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations,"String, Dynamic Programming, Bit Manipulation, Bitmask"
+HARD,Maximum GCD-Sum of a Subarray,100.0,0.0038882863340563988,https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray,"Array, Math, Binary Search, Number Theory"
+HARD,Number of Subarrays That Match a Pattern II,100.0,0.0033921559461480926,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii,"Array, Rolling Hash, String Matching, Hash Function"
+EASY,Number of Bit Changes to Make Two Integers Equal,65.6,0.006359260871668359,https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal,Bit Manipulation
+EASY,Two Sum,65.6,0.005768895608331339,https://leetcode.com/problems/two-sum,"Array, Hash Table"

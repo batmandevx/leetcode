@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Course Schedule,100.0,0.0051649380218046015,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+MEDIUM,Spiral Matrix,82.5,0.0057073827318806,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,LRU Cache,82.5,0.004754634600166437,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Display Table of Food Orders in a Restaurant,82.5,0.007644621482044918,https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant,"Array, Hash Table, String, Sorting, Ordered Set"

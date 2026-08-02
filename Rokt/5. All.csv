@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Basic Calculator,100.0,0.004696590014761332,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
+MEDIUM,Basic Calculator II,97.8,0.00469727039629773,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+EASY,Valid Word Abbreviation,89.2,0.0037043928501228752,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
+HARD,Regular Expression Matching,80.7,0.0031126281716329285,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+EASY,Valid Parentheses,74.6,0.004436555747276195,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Design Browser History,66.1,0.00783599796243007,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"

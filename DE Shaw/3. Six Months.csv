@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Binary Tree Cameras,100.0,0.004795294259026055,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Remove Duplicate Letters,88.7,0.005343332680543121,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Furthest Building You Can Reach,88.7,0.0050960376365213654,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,Reorganize String,88.7,0.005723980103407708,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"

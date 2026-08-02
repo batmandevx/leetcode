@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,The Number of Rich Customers,100.0,0.00773289934408443,https://leetcode.com/problems/the-number-of-rich-customers,Database
+MEDIUM,Group Anagrams,84.6,0.007279902010228705,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,79.6,0.003929968979427992,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Merge Intervals,73.2,0.005211659924033122,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Longest Palindromic Substring,64.2,0.003804657301544889,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Ways to Split Array Into Three Subarrays,100.0,0.0034361229892079003,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum"
+MEDIUM,Restore the Array From Adjacent Pairs,100.0,0.007507274883572935,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs,"Array, Hash Table, Depth-First Search"
+MEDIUM,Brightest Position on Street,97.7,0.006069428501860934,https://leetcode.com/problems/brightest-position-on-street,"Array, Sorting, Prefix Sum, Ordered Set"
+MEDIUM,Count Good Meals,97.7,0.0032924770817303966,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
+MEDIUM,Number of Orders in the Backlog,97.7,0.005404325373932376,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"
+MEDIUM,Check if There is a Valid Path in a Grid,97.7,0.006448124689740967,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Capital Gain/Loss,97.7,0.008464341944136684,https://leetcode.com/problems/capital-gainloss,Database
+EASY,Count the Number of Consistent Strings,97.7,0.008851821466323778,https://leetcode.com/problems/count-the-number-of-consistent-strings,"Array, Hash Table, String, Bit Manipulation, Counting"
+MEDIUM,Top K Frequent Words,97.7,0.006029227983371165,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+HARD,Text Justification,89.3,0.0051389121242141214,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Minesweeper,76.1,0.006881276467530404,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Top K Frequent Elements,69.3,0.006670462277543824,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Employee Importance,69.3,0.0069538040453026116,https://leetcode.com/problems/employee-importance,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"
+EASY,Best Time to Buy and Sell Stock,59.7,0.0056963337872581125,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Defanging an IP Address,59.7,0.009007284695738,https://leetcode.com/problems/defanging-an-ip-address,String

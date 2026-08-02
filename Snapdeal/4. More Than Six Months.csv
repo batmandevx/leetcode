@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Arithmetic Subsequence,100.0,0.005002719892878065,https://leetcode.com/problems/longest-arithmetic-subsequence,"Array, Hash Table, Binary Search, Dynamic Programming"
+EASY,Diameter of Binary Tree,100.0,0.0065727550764192,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"

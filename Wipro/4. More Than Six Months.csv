@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimum Moves to Capture The Queen,100.0,0.002253552440792653,https://leetcode.com/problems/minimum-moves-to-capture-the-queen,"Math, Enumeration"
+EASY,Two Sum,97.5,0.005768897681567189,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Longest Common Prefix,83.4,0.004778175200397889,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Valid Anagram,71.2,0.006826514080754562,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Palindrome Number,61.5,0.006069136063753233,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Reverse Integer,61.5,0.003204549152239995,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,Longest Substring Without Repeating Characters,61.5,0.003929967609119583,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Sort Characters By Frequency,61.5,0.007546743615875449,https://leetcode.com/problems/sort-characters-by-frequency,"Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+EASY,Create Hello World Function,61.5,0.008191689768686844,https://leetcode.com/problems/create-hello-world-function,
+EASY,Valid Parentheses,61.5,0.0044365623379265485,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Merge Intervals,61.5,0.005211661351463667,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Add Binary,61.5,0.005817460118234808,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
+EASY,Merge Sorted Array,61.5,0.005509635580698313,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Toeplitz Matrix,61.5,0.006972944965100481,https://leetcode.com/problems/toeplitz-matrix,"Array, Matrix"
+EASY,Pascal's Triangle,61.5,0.007908893758225675,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"

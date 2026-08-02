@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Substring XOR Queries,100.0,0.0035703195756242724,https://leetcode.com/problems/substring-xor-queries,"Array, Hash Table, String, Bit Manipulation"
+HARD,Handling Sum Queries After Update,100.0,0.0031340975940870354,https://leetcode.com/problems/handling-sum-queries-after-update,"Array, Segment Tree"
+MEDIUM,Bitwise XOR of All Pairings,100.0,0.0066872849845362615,https://leetcode.com/problems/bitwise-xor-of-all-pairings,"Array, Bit Manipulation, Brainteaser"
+HARD,Minimum Time to Kill All Monsters,100.0,0.005766576657665766,https://leetcode.com/problems/minimum-time-to-kill-all-monsters,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+HARD,Distinct Subsequences,64.0,0.005207551975316728,https://leetcode.com/problems/distinct-subsequences,"String, Dynamic Programming"
+MEDIUM,Fraction Addition and Subtraction,64.0,0.006648630303957325,https://leetcode.com/problems/fraction-addition-and-subtraction,"Math, String, Simulation"
+MEDIUM,Range Product Queries of Powers,64.0,0.00612426460037308,https://leetcode.com/problems/range-product-queries-of-powers,"Array, Bit Manipulation, Prefix Sum"

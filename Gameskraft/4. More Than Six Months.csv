@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Maximize Sum of Weights after Edge Removals,100.0,0.0031353113358169237,https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals,"Dynamic Programming, Tree, Depth-First Search, Sorting"
+HARD,Sliding Window Maximum,63.9,0.0048890433842093085,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Count Valid Paths in a Tree,63.9,0.0036488151315312704,https://leetcode.com/problems/count-valid-paths-in-a-tree,"Math, Dynamic Programming, Tree, Depth-First Search, Number Theory"

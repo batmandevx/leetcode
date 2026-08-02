@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Lexicographically Smallest Generated String,100.0,0.005350690315761659,https://leetcode.com/problems/lexicographically-smallest-generated-string,"String, Greedy, String Matching"
+MEDIUM,Double Modular Exponentiation,89.5,0.004819067372865662,https://leetcode.com/problems/double-modular-exponentiation,"Array, Math, Simulation"
+EASY,Furthest Point From Origin,89.5,0.007709915249005654,https://leetcode.com/problems/furthest-point-from-origin,"String, Counting"
+MEDIUM,Count Submatrices with Top-Left Element and Sum Less Than k,87.5,0.007485693717437194,https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k,"Array, Matrix, Prefix Sum"
+MEDIUM,Mark Elements on Array by Performing Queries,87.5,0.004950379451255108,https://leetcode.com/problems/mark-elements-on-array-by-performing-queries,"Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
+MEDIUM,Partition Labels,61.8,0.008192565841716867,https://leetcode.com/problems/partition-labels,"Hash Table, Two Pointers, String, Greedy"
+MEDIUM,Lexicographical Numbers,53.2,0.0076261313702662755,https://leetcode.com/problems/lexicographical-numbers,"Depth-First Search, Trie"
+EASY,Valid Parentheses,53.2,0.004436541677338058,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Number of Islands,53.2,0.006459365868315838,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Second Highest Salary,53.2,0.004735452920446984,https://leetcode.com/problems/second-highest-salary,Database
+EASY,Longest Common Prefix,53.2,0.004778147296562657,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Next Greater Element I,53.2,0.007635154967159278,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+MEDIUM,Reverse Words in a String,53.2,0.005681667473458751,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Minimum Number of Days to Make m Bouquets,53.2,0.005673607725990642,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets,"Array, Binary Search"
+EASY,Two Sum,53.2,0.005768896050110127,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Remove Boxes,53.2,0.00494783973769072,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"

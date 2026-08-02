@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Arranging Coins,100.0,0.0048339633790653105,https://leetcode.com/problems/arranging-coins,"Math, Binary Search"
+MEDIUM,String Compression,100.0,0.006021189690848487,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Merge Intervals,84.9,0.005211655273418328,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Valid Parentheses,73.8,0.00443654752168454,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Minimum Degree of a Connected Trio in a Graph,64.9,0.004457113432396646,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph,"Graph Theory, Enumeration"

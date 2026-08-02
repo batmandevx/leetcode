@@ -1,0 +1,20 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Construct Target Array With Multiple Sums,100.0,0.0037058173398161888,https://leetcode.com/problems/construct-target-array-with-multiple-sums,"Array, Heap (Priority Queue)"
+MEDIUM,Range Frequency Queries,97.9,0.004345261965983346,https://leetcode.com/problems/range-frequency-queries,"Array, Hash Table, Binary Search, Design, Segment Tree"
+MEDIUM,Encode Number,95.6,0.007035366148392813,https://leetcode.com/problems/encode-number,"Math, String, Bit Manipulation"
+EASY,1-bit and 2-bit Characters,95.6,0.004963165691162657,https://leetcode.com/problems/1-bit-and-2-bit-characters,Array
+MEDIUM,Sort the Matrix Diagonally,95.6,0.0083210975899546,https://leetcode.com/problems/sort-the-matrix-diagonally,"Array, Sorting, Matrix"
+EASY,Maximum Number of Words You Can Type,95.6,0.008292263650771799,https://leetcode.com/problems/maximum-number-of-words-you-can-type,"Hash Table, String"
+MEDIUM,Exam Room,95.6,0.0043612060221780245,https://leetcode.com/problems/exam-room,"Design, Heap (Priority Queue), Ordered Set"
+EASY,Subtract the Product and Sum of Digits of an Integer,95.6,0.008658614315357183,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer,Math
+EASY,Find Numbers with Even Number of Digits,95.6,0.00798331236074393,https://leetcode.com/problems/find-numbers-with-even-number-of-digits,"Array, Math"
+EASY,Find the K-Beauty of a Number,95.6,0.006354501876059873,https://leetcode.com/problems/find-the-k-beauty-of-a-number,"Math, String, Sliding Window"
+MEDIUM,3Sum With Multiplicity,95.6,0.004633227252454853,https://leetcode.com/problems/3sum-with-multiplicity,"Array, Hash Table, Two Pointers, Sorting, Counting"
+EASY,Substrings of Size Three with Distinct Characters,95.6,0.007686248746822146,https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters,"Hash Table, String, Sliding Window, Counting"
+MEDIUM,Get Biggest Three Rhombus Sums in a Grid,95.6,0.007133881334091037,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid,"Array, Math, Sorting, Heap (Priority Queue), Matrix, Prefix Sum"
+MEDIUM,Finding Pairs With a Certain Sum,95.6,0.00615543557394089,https://leetcode.com/problems/finding-pairs-with-a-certain-sum,"Array, Hash Table, Design"
+MEDIUM,Insert Delete GetRandom O(1),87.1,0.005540977404753059,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Text Justification,79.0,0.005138916300211547,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Subarray Sum Equals K,73.7,0.004756673602063086,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+EASY,Longest Common Prefix,66.8,0.004778171846836591,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+HARD,Serialize and Deserialize Binary Tree,66.8,0.006096486472775958,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"

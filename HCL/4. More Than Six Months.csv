@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.005768897427264573,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,88.6,0.004436548288513215,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,83.1,0.0039299485063426795,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Merge Sorted Array,76.2,0.005509624117423022,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Best Time to Buy and Sell Stock,76.2,0.0056963183901500266,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Reverse String,66.3,0.008093587149611708,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
+MEDIUM,3Sum,66.3,0.0039301104402954205,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+HARD,Department Top Three Salaries,66.3,0.006080141376010303,https://leetcode.com/problems/department-top-three-salaries,Database
+MEDIUM,Second Highest Salary,66.3,0.004735462138026845,https://leetcode.com/problems/second-highest-salary,Database
+EASY,Valid Palindrome,66.3,0.005358820425842554,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Missing Number,66.3,0.007219759069178394,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"

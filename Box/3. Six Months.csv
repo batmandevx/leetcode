@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Top K Frequent Words,100.0,0.006029201504483595,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+MEDIUM,Rotate Array,100.0,0.004510335420549159,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,Redundant Connection,89.9,0.0067784920943903485,https://leetcode.com/problems/redundant-connection,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"

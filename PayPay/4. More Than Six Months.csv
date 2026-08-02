@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Block Placement Queries,100.0,0.004146048357315874,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set"
+EASY,Largest 3-Same-Digit Number in String,88.4,0.007267940537036466,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
+MEDIUM,Zigzag Conversion,88.4,0.005438156474244479,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Min Cost to Connect All Points,88.4,0.007114624101127295,https://leetcode.com/problems/min-cost-to-connect-all-points,"Array, Union-Find, Graph Theory, Minimum Spanning Tree"
+MEDIUM,Successful Pairs of Spells and Potions,88.4,0.004967339720119898,https://leetcode.com/problems/successful-pairs-of-spells-and-potions,"Array, Two Pointers, Binary Search, Sorting"

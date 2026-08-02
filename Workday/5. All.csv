@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Break a Palindrome,100.0,0.005160533366339952,https://leetcode.com/problems/break-a-palindrome,"String, Greedy"
+MEDIUM,Group Anagrams,92.0,0.007279900792623488,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Container With Most Water,92.0,0.006024280596833171,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Sort Colors,80.9,0.006987530647404543,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+MEDIUM,Top K Frequent Elements,80.9,0.006670467684384185,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Permutations,80.9,0.008205097751915158,https://leetcode.com/problems/permutations,"Array, Backtracking"

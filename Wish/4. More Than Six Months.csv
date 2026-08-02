@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Monthly Transactions II,100.0,0.004201130832677567,https://leetcode.com/problems/monthly-transactions-ii,Database
+MEDIUM,Monthly Transactions I,100.0,0.005930763406028197,https://leetcode.com/problems/monthly-transactions-i,Database
+MEDIUM,Rabbits in Forest,100.0,0.005805145459468175,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"
+HARD,Find Servers That Handled Most Number of Requests,100.0,0.004551501620894244,https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests,"Array, Heap (Priority Queue), Simulation, Ordered Set"
+MEDIUM,Search in Rotated Sorted Array,100.0,0.004509757025486441,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"

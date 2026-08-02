@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.004754649599477265,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Minimum Deletions to Make Character Frequencies Unique,90.2,0.006151722289781575,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique,"Hash Table, String, Greedy, Sorting"

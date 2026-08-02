@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Word Ladder,100.0,0.004584416272832838,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,LRU Cache,80.8,0.004754635039660335,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Design Hit Counter,74.8,0.006972127433714702,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+EASY,Logger Rate Limiter,74.8,0.007685429606125137,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Number of Ways to Buy Pens and Pencils,66.3,0.005694415262428037,https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils,"Math, Enumeration"

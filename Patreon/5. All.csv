@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Simplify Path,100.0,0.005080344252151576,https://leetcode.com/problems/simplify-path,"String, Stack"
+EASY,Shortest Word Distance,80.0,0.006634802567719033,https://leetcode.com/problems/shortest-word-distance,"Array, String"
+MEDIUM,Merge Intervals,74.3,0.0052116596058579216,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Logger Rate Limiter,66.2,0.007685429606125137,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"

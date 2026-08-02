@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,String Compression,100.0,0.006021181084444522,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Merge Intervals,89.9,0.005211656201608022,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Encode and Decode Strings,89.9,0.005168987898607261,https://leetcode.com/problems/encode-and-decode-strings,"Array, String, Design"
+MEDIUM,Time Based Key-Value Store,82.8,0.0049990712628907715,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Number of Islands,82.8,0.006459348936036943,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+EASY,Squares of a Sorted Array,72.8,0.007385804161290781,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+HARD,Trapping Rain Water,72.8,0.006761508054968425,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Course Schedule,72.8,0.005164932279730536,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+EASY,Valid Parentheses,72.8,0.004436543497862905,https://leetcode.com/problems/valid-parentheses,"String, Stack"

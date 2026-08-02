@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Pacific Atlantic Water Flow,100.0,0.006109922270243678,https://leetcode.com/problems/pacific-atlantic-water-flow,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Rotting Oranges,100.0,0.005886900775571508,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Maximum Points You Can Obtain from Cards,88.6,0.00578907548539092,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards,"Array, Sliding Window, Prefix Sum"
+HARD,Trapping Rain Water,88.6,0.006761504798961188,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Array Transformation,100.0,0.005381702857512703,https://leetcode.com/problems/array-transformation,"Array, Simulation"
+EASY,How Many Apples Can You Put into the Basket,100.0,0.006713859058270318,https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket,"Array, Greedy, Sorting"
+EASY,Count Substrings with Only One Distinct Letter,91.2,0.008096545002180214,https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter,"Math, String"
+EASY,Hexspeak,91.2,0.005836830248685896,https://leetcode.com/problems/hexspeak,"Math, String"
+MEDIUM,Count Number of Homogenous Substrings,87.3,0.005736104927913428,https://leetcode.com/problems/count-number-of-homogenous-substrings,"Math, String"

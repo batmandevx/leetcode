@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Beautiful Arrangement,100.0,0.006483887887038412,https://leetcode.com/problems/beautiful-arrangement,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+HARD,Count Palindromic Subsequences,92.7,0.004130848371783742,https://leetcode.com/problems/count-palindromic-subsequences,"String, Dynamic Programming"
+MEDIUM,Minimize Maximum of Array,82.3,0.004654633935429862,https://leetcode.com/problems/minimize-maximum-of-array,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+MEDIUM,Number of Divisible Triplet Sums,82.3,0.006759746391474437,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"
+MEDIUM,Longest Palindromic Substring,82.3,0.003804655500546776,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Exclusive Time of Functions,82.3,0.00662148498641671,https://leetcode.com/problems/exclusive-time-of-functions,"Array, Stack"

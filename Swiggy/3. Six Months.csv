@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Best Time to Buy and Sell Stock,100.0,0.005696334897085153,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Count Good Meals,100.0,0.0032924770817303966,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
+MEDIUM,Count Days Without Meetings,89.1,0.004819590111231723,https://leetcode.com/problems/count-days-without-meetings,"Array, Sorting"
+MEDIUM,Maximize Area of Square Hole in Grid,89.1,0.006196701403947906,https://leetcode.com/problems/maximize-area-of-square-hole-in-grid,"Array, Sorting"
+MEDIUM,Unique Binary Search Trees,89.1,0.00638191227522961,https://leetcode.com/problems/unique-binary-search-trees,"Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree"

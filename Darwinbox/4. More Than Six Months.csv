@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Scramble String,100.0,0.004484510824428326,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
+MEDIUM,Merge Intervals,79.7,0.005211656201608022,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Pancake Sorting,66.2,0.007187296507842007,https://leetcode.com/problems/pancake-sorting,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Majority Element II,58.3,0.005637033311562193,https://leetcode.com/problems/majority-element-ii,"Array, Hash Table, Sorting, Counting"
+HARD,Number of Great Partitions,58.3,0.00336316555690795,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"
+MEDIUM,Spiral Matrix,58.3,0.005707366430805041,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

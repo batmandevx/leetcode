@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximize Greatness of an Array,100.0,0.006182975632681545,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+EASY,Reformat Date,96.0,0.006864229277700587,https://leetcode.com/problems/reformat-date,String
+EASY,Univalued Binary Tree,96.0,0.007313280931951272,https://leetcode.com/problems/univalued-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Count Vowel Strings in Ranges,75.9,0.006785865048479651,https://leetcode.com/problems/count-vowel-strings-in-ranges,"Array, String, Prefix Sum"
+MEDIUM,Top K Frequent Elements,69.7,0.006670463474031702,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Group Anagrams,69.7,0.007279894716345154,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Ways to Make a Fair Array,60.8,0.006714606395387223,https://leetcode.com/problems/ways-to-make-a-fair-array,"Array, Prefix Sum"
+MEDIUM,Furthest Building You Can Reach,60.8,0.005096027834262316,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,Search Suggestions System,60.8,0.006518412902607557,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"

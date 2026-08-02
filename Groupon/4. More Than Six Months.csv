@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Sell Diminishing-Valued Colored Balls,100.0,0.0030236561383375497,https://leetcode.com/problems/sell-diminishing-valued-colored-balls,"Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Jump Game II,100.0,0.004303501425647274,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"

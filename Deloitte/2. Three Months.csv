@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Climbing Stairs,100.0,0.0054157498988136035,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+EASY,Valid Palindrome,100.0,0.005358816091741833,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003929945534371603,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Merge k Sorted Lists,100.0,0.005981756727935435,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"

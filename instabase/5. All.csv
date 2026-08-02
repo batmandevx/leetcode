@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Subarray With Elements Greater Than Varying Threshold,100.0,0.004565601733110884,https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold,"Array, Stack, Union-Find, Monotonic Stack"
+MEDIUM,Implement Trie (Prefix Tree),100.0,0.006966363906982018,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Course Schedule II,100.0,0.0055740803113655925,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"

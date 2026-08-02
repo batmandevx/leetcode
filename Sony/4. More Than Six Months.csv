@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Subtree Removal Game with Fibonacci Tree,100.0,0.005778863775198534,https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree,"Math, Dynamic Programming, Tree, Binary Tree, Game Theory"
+MEDIUM,Random Pick with Weight,100.0,0.004912308707924108,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+EASY,Number of Good Pairs,100.0,0.008985099157268039,https://leetcode.com/problems/number-of-good-pairs,"Array, Hash Table, Math, Counting"

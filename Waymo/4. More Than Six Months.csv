@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Max Points on a Line,100.0,0.0030936226543023387,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry"
+MEDIUM,Meeting Rooms II,77.0,0.005272302165786939,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Number of Islands,70.5,0.006459367170574068,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Minimum Knight Moves,70.5,0.004199291637871459,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+MEDIUM,Minimum Area Rectangle,70.5,0.0055402913066047825,https://leetcode.com/problems/minimum-area-rectangle,"Array, Hash Table, Math, Geometry, Sorting"
+HARD,Design Excel Sum Formula,70.5,0.003961508596783139,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph Theory, Design, Topological Sort, Matrix"
+MEDIUM,Design Tic-Tac-Toe,61.3,0.005874844437222803,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+MEDIUM,Divide Array in Sets of K Consecutive Numbers,61.3,0.005937521103172566,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers,"Array, Hash Table, Greedy, Sorting"
+HARD,Shortest Distance from All Buildings,61.3,0.004495251580771954,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"
+MEDIUM,Find Peak Element,61.3,0.004702998854780793,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"
+HARD,Text Justification,61.3,0.0051389119100281625,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+HARD,Largest Rectangle in Histogram,61.3,0.005018800727170159,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+EASY,Logger Rate Limiter,61.3,0.007685429606125137,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"

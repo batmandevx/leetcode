@@ -1,0 +1,2 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimum Number of Moves to Make Palindrome,100.0,0.0052979725578537785,https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome,"Two Pointers, String, Greedy, Binary Indexed Tree"

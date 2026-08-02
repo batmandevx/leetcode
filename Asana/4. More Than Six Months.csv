@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,K Closest Points to Origin,100.0,0.006910619485359807,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Product of Array Except Self,95.5,0.006900149580440774,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+EASY,Maximum Repeating Substring,67.4,0.004182870642958078,https://leetcode.com/problems/maximum-repeating-substring,"String, Dynamic Programming, String Matching"

@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Palindromic Substrings,100.0,0.0072921458967226856,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+HARD,LFU Cache,100.0,0.004951368984385962,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,LRU Cache,100.0,0.004754634600166437,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.00392995594959462,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,First Missing Positive,100.0,0.004311805478886558,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+HARD,Design In-Memory File System,100.0,0.004833522512296632,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+HARD,Merge k Sorted Lists,100.0,0.005981776437334198,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+HARD,Regular Expression Matching,100.0,0.003112623503645321,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"

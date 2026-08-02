@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Connected Components in an Undirected Graph,100.0,0.006503269765158411,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+MEDIUM,Implement Trie (Prefix Tree),65.5,0.006966369631934453,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Minimum Path Sum,60.3,0.0068413296164418465,https://leetcode.com/problems/minimum-path-sum,"Array, Dynamic Programming, Matrix"
+EASY,Widest Vertical Area Between Two Points Containing No Points,53.0,0.008712896731914164,https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points,"Array, Sorting"
+MEDIUM,Dot Product of Two Sparse Vectors,53.0,0.008989857752552113,https://leetcode.com/problems/dot-product-of-two-sparse-vectors,"Array, Hash Table, Two Pointers, Design"
+HARD,First Missing Positive,53.0,0.004311791209880479,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,LRU Cache,53.0,0.004754619276338003,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,53.0,0.006374184174282618,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation, Simulation"

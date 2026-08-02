@@ -1,0 +1,19 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.005768897681567189,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Minimum Moves to Capture The Queen,100.0,0.002253552440792653,https://leetcode.com/problems/minimum-moves-to-capture-the-queen,"Math, Enumeration"
+EASY,Longest Common Prefix,87.5,0.004778175200397889,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Longest Substring Without Repeating Characters,77.5,0.003929967609119583,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Parentheses,70.5,0.0044365623379265485,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Valid Anagram,70.5,0.006826514080754562,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Group Anagrams,70.5,0.007279900792623488,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Palindrome Number,60.6,0.006069136063753233,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Reverse Integer,60.6,0.003204549152239995,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,Sort Characters By Frequency,60.6,0.007546743615875449,https://leetcode.com/problems/sort-characters-by-frequency,"Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+EASY,Create Hello World Function,60.6,0.008191689768686844,https://leetcode.com/problems/create-hello-world-function,
+MEDIUM,Merge Intervals,60.6,0.005211661351463667,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Add Binary,60.6,0.005817460118234808,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
+EASY,Toeplitz Matrix,60.6,0.006972944965100481,https://leetcode.com/problems/toeplitz-matrix,"Array, Matrix"
+EASY,Pascal's Triangle,60.6,0.007908893758225675,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Merge Sorted Array,60.6,0.005509635580698313,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Kids With the Greatest Number of Candies,60.6,0.008802189176324124,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies,Array
+EASY,Max Consecutive Ones,60.6,0.00654492463802353,https://leetcode.com/problems/max-consecutive-ones,Array

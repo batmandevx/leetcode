@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003929961301885925,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Moving Average from Data Stream,87.8,0.008022783188568897,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Kth Largest Element in an Array,87.8,0.006903921821281777,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Analyze User Website Visit Pattern,81.6,0.004430685694582534,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, String, Sorting"

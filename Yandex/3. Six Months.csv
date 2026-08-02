@@ -1,0 +1,25 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Subarray of 1's After Deleting One Element,100.0,0.00712802025386367,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"
+MEDIUM,Maximize Distance to Closest Person,100.0,0.004985286770153162,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Summary Ranges,100.0,0.005436254991298667,https://leetcode.com/problems/summary-ranges,Array
+MEDIUM,Subarray Sum Equals K,92.5,0.004756677389349518,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Merge Intervals,92.5,0.005211661351463667,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,87.8,0.003929967609119583,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Find K Closest Elements,87.8,0.004979485962699149,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+MEDIUM,Longest Palindromic Substring,82.0,0.0038046565504605196,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,74.5,0.006492893233224725,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
+MEDIUM,Interval List Intersections,74.5,0.007306717443664015,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Sweep Line"
+EASY,Valid Palindrome II,64.0,0.004438466230969941,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
+MEDIUM,Find All Anagrams in a String,64.0,0.00539581965552886,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
+EASY,Two Sum,64.0,0.005768897681567189,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Container With Most Water,64.0,0.006024280596833171,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Find Duplicate Subtrees,64.0,0.006075693761145569,https://leetcode.com/problems/find-duplicate-subtrees,"Hash Table, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Longest Substring with At Most K Distinct Characters,64.0,0.005004910790419414,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Permutation in String,64.0,0.004911065453851941,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"
+MEDIUM,Search in Rotated Sorted Array,64.0,0.004509757025486441,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Perfect Squares,64.0,0.00566407245702983,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search"
+MEDIUM,Number of Islands,64.0,0.006459367170574068,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+HARD,Merge k Sorted Lists,64.0,0.005981785889895501,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+HARD,Subarrays with K Different Integers,64.0,0.006840539167065645,https://leetcode.com/problems/subarrays-with-k-different-integers,"Array, Hash Table, Sliding Window, Counting"
+MEDIUM,String Compression,64.0,0.006021219610447583,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Trapping Rain Water,64.0,0.006761526210956386,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

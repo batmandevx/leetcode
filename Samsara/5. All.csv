@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Alternating Groups I,100.0,0.006919918425317284,https://leetcode.com/problems/alternating-groups-i,"Array, Sliding Window"
+MEDIUM,Alternating Groups II,100.0,0.006002829591570795,https://leetcode.com/problems/alternating-groups-ii,"Array, Sliding Window"
+MEDIUM,Valid Sudoku,97.7,0.00646704458969423,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Find Beautiful Indices in the Given Array I,85.2,0.004100967446617236,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
+HARD,Text Justification,65.6,0.0051389121242141214,https://leetcode.com/problems/text-justification,"Array, String, Simulation"

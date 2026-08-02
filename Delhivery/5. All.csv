@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Consecutive Numbers,100.0,0.004862824387903457,https://leetcode.com/problems/consecutive-numbers,Database
+HARD,Integer to English Words,100.0,0.003506811706255458,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+EASY,Two Sum,100.0,0.00576889963805245,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Maximum Product Subarray,100.0,0.003657029106172305,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+MEDIUM,Search in Rotated Sorted Array,100.0,0.004509752249803709,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"

@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Connected Components in an Undirected Graph,100.0,0.006503269765158411,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,68.6,0.006374184174282618,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation, Simulation"
+MEDIUM,Implement Trie (Prefix Tree),64.5,0.006966369631934453,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Minimum Path Sum,59.1,0.0068413296164418465,https://leetcode.com/problems/minimum-path-sum,"Array, Dynamic Programming, Matrix"
+MEDIUM,Dot Product of Two Sparse Vectors,59.1,0.008989857752552113,https://leetcode.com/problems/dot-product-of-two-sparse-vectors,"Array, Hash Table, Two Pointers, Design"
+HARD,Maximum Sum of 3 Non-Overlapping Subarrays,59.1,0.00598493906165192,https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays,"Array, Dynamic Programming, Sliding Window, Prefix Sum"
+MEDIUM,LRU Cache,51.6,0.004754619276338003,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,First Missing Positive,51.6,0.004311791209880479,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+EASY,Widest Vertical Area Between Two Points Containing No Points,51.6,0.008712896731914164,https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points,"Array, Sorting"
+HARD,Serialize and Deserialize Binary Tree,51.6,0.006096481128457985,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+HARD,Guess the Word,51.6,0.0036681743870377475,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Interactive, Game Theory"

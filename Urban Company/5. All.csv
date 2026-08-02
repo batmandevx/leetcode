@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Pacific Atlantic Water Flow,100.0,0.006109916539186843,https://leetcode.com/problems/pacific-atlantic-water-flow,"Array, Depth-First Search, Breadth-First Search, Matrix"
+HARD,Candy,88.5,0.004866092607547812,https://leetcode.com/problems/candy,"Array, Greedy"
+HARD,Trapping Rain Water,88.5,0.006761528111952068,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Find Peak Element,88.5,0.0047029958482232735,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"
+MEDIUM,Minimum Deletions to Make String Balanced,88.5,0.006819193133286681,https://leetcode.com/problems/minimum-deletions-to-make-string-balanced,"String, Dynamic Programming, Stack"
+MEDIUM,Evaluate Division,88.5,0.006432727834151431,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path"
+MEDIUM,Frequency of the Most Frequent Element,88.5,0.004494916212383703,https://leetcode.com/problems/frequency-of-the-most-frequent-element,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"

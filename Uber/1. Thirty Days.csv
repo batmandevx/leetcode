@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,First Unique Number,100.0,0.005772286580818377,https://leetcode.com/problems/first-unique-number,"Array, Hash Table, Design, Queue, Data Stream"
+HARD,Bus Routes,79.9,0.00473669276225911,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+EASY,Squares of a Sorted Array,70.3,0.0073858237213518,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Final Prices With a Special Discount in a Shop,70.3,0.008421028845398098,https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop,"Array, Stack, Monotonic Stack"
+MEDIUM,Make Lexicographically Smallest Array by Swapping Elements,70.3,0.006028055736301872,https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements,"Array, Union-Find, Sorting"
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,70.3,0.0057795319128310174,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,"Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue"
+MEDIUM,Shuffle an Array,70.3,0.005979559241457397,https://leetcode.com/problems/shuffle-an-array,"Array, Math, Design, Randomized"
+HARD,Number of Islands II,70.3,0.004065304164521254,https://leetcode.com/problems/number-of-islands-ii,"Array, Hash Table, Union-Find"
+MEDIUM,Number of Islands,70.3,0.006459363956527961,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"

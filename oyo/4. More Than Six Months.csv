@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Koko Eating Bananas,100.0,0.005015283612699998,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Furthest Building You Can Reach,100.0,0.005096046014595509,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
+HARD,Merge k Sorted Lists,88.3,0.005981789034796538,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,3Sum,88.3,0.003930124811135303,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Copy List with Random Pointer,88.3,0.00631426633932348,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
+EASY,Longest Common Prefix,88.3,0.004778177523381,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,House Robber III,88.3,0.0056016705538949165,https://leetcode.com/problems/house-robber-iii,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

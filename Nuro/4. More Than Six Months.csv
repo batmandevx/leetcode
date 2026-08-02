@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Maximum Number of Visible Points,100.0,0.003825935400444157,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
+MEDIUM,Evaluate Division,76.7,0.006432735461819808,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path"
+MEDIUM,Interval List Intersections,70.7,0.007306714047381555,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Sweep Line"
+MEDIUM,Random Pick with Weight,70.7,0.004912305039044473,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+MEDIUM,Subrectangle Queries,62.1,0.008641546983316196,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
+MEDIUM,Target Sum,62.1,0.005240821461138241,https://leetcode.com/problems/target-sum,"Array, Dynamic Programming, Backtracking"
+HARD,Shortest Path in a Grid with Obstacles Elimination,62.1,0.004640312895174158,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
+MEDIUM,Asteroid Collision,62.1,0.004821263960875214,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Sparse Matrix Multiplication,62.1,0.006931907469390533,https://leetcode.com/problems/sparse-matrix-multiplication,"Array, Hash Table, Matrix"
+MEDIUM,Merge Intervals,62.1,0.005211659052989144,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Alien Dictionary,62.1,0.0037248142397902713,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+MEDIUM,Dot Product of Two Sparse Vectors,62.1,0.008989857752552113,https://leetcode.com/problems/dot-product-of-two-sparse-vectors,"Array, Hash Table, Two Pointers, Design"

@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Island Perimeter,100.0,0.007453691738507018,https://leetcode.com/problems/island-perimeter,"Array, Depth-First Search, Breadth-First Search, Matrix"
+EASY,Two Sum,100.0,0.0057688957314214325,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Palindrome,100.0,0.00535881493379011,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Copy List with Random Pointer,100.0,0.006314230435869385,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
+HARD,Reverse Nodes in k-Group,100.0,0.0066421826646743875,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+HARD,Trapping Rain Water,100.0,0.0067615052722755165,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Keys and Rooms,100.0,0.007589186508256011,https://leetcode.com/problems/keys-and-rooms,"Depth-First Search, Breadth-First Search, Graph Theory"
+MEDIUM,String to Integer (atoi),100.0,0.0021184147762174066,https://leetcode.com/problems/string-to-integer-atoi,String

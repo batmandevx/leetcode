@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Divide an Array Into Subarrays With Minimum Cost II,100.0,0.00547203852894826,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+MEDIUM,Find the Grid of Region Average,100.0,0.004366506228765572,https://leetcode.com/problems/find-the-grid-of-region-average,"Array, Matrix"
+MEDIUM,Maximize the Number of Target Nodes After Connecting Trees I,100.0,0.006943850420732658,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i,"Tree, Depth-First Search, Breadth-First Search"
+HARD,Maximize the Number of Target Nodes After Connecting Trees II,100.0,0.0073092995696376235,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii,"Tree, Depth-First Search, Breadth-First Search"
+EASY,Two Sum,63.3,0.0057688973334014786,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Reverse Linked List,63.3,0.008070850622718779,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Group Anagrams,63.3,0.007279902010228705,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

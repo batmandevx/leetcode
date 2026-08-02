@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Reward Top K Students,100.0,0.004715238737725807,https://leetcode.com/problems/reward-top-k-students,"Array, Hash Table, String, Sorting, Heap (Priority Queue)"
+HARD,Sliding Window Maximum,81.1,0.004889037036869425,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Reconstruct Itinerary,81.1,0.004467720067289832,https://leetcode.com/problems/reconstruct-itinerary,"Array, String, Depth-First Search, Graph Theory, Sorting, Heap (Priority Queue), Eulerian Circuit"
+MEDIUM,Integer to Roman,81.1,0.007117952502975711,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Permutations,81.1,0.008205080625418098,https://leetcode.com/problems/permutations,"Array, Backtracking"
+MEDIUM,Maximal Square,74.5,0.00504749540979294,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+EASY,Two Out of Three,74.5,0.007771487239659725,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
+HARD,Delete Duplicate Folders in System,74.5,0.007738696868513672,https://leetcode.com/problems/delete-duplicate-folders-in-system,"Array, Hash Table, String, Depth-First Search, Trie, Sorting, Hash Function"
+MEDIUM,K Highest Ranked Items Within a Price Range,65.0,0.0046889831576294675,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range,"Array, Breadth-First Search, Sorting, Heap (Priority Queue), Matrix"
+MEDIUM,Coloring A Border,65.0,0.005145447231842397,https://leetcode.com/problems/coloring-a-border,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Order Two Columns Independently,65.0,0.006175025131240924,https://leetcode.com/problems/order-two-columns-independently,Database
+EASY,Roman to Integer,65.0,0.006679182497968406,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,LRU Cache,65.0,0.004754603276446281,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Longest Valid Parentheses,65.0,0.003902759590351172,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack"

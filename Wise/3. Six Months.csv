@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Perfect Pairs,100.0,0.003430410056869201,https://leetcode.com/problems/number-of-perfect-pairs,"Array, Math, Two Pointers, Sorting"
+EASY,Odd String Difference,90.4,0.00620833390277569,https://leetcode.com/problems/odd-string-difference,"Array, Hash Table, String"
+MEDIUM,Design Tic-Tac-Toe,90.4,0.005874844437222803,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"

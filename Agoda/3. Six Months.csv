@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Number of Atoms,100.0,0.006512233025183296,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"
+MEDIUM,Eliminate Maximum Number of Monsters,96.9,0.005117179831162883,https://leetcode.com/problems/eliminate-maximum-number-of-monsters,"Array, Greedy, Sorting"
+MEDIUM,Capacity To Ship Packages Within D Days,89.0,0.007414311743125459,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
+EASY,Minimum Absolute Difference,83.8,0.007515221813113072,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"
+MEDIUM,Remove All Adjacent Duplicates in String II,83.8,0.006146396534446704,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+MEDIUM,Sort Colors,77.1,0.0069875247454362025,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+MEDIUM,Decode String,67.7,0.006278173696244667,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+EASY,Rank Transform of an Array,67.7,0.007091732974871541,https://leetcode.com/problems/rank-transform-of-an-array,"Array, Hash Table, Sorting"
+MEDIUM,Jump Game,67.7,0.0041065097120021226,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Maximum Team Size with Overlapping Intervals,67.7,0.004514018691588784,https://leetcode.com/problems/maximum-team-size-with-overlapping-intervals,
+MEDIUM,Coin Change,67.7,0.004863050091387497,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Daily Temperatures,67.7,0.006882736173925375,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Koko Eating Bananas,67.7,0.005015276723394978,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,House Robber,67.7,0.005332524663575611,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,67.7,0.003929937441226943,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Subsets,67.7,0.008247560770170463,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
+MEDIUM,Subarray Sum Equals K,67.7,0.0047566457256946835,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"

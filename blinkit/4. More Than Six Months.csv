@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Single Element in a Sorted Array,100.0,0.005930903303589328,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"
+MEDIUM,Maximum Subarray,100.0,0.005347379998763699,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+HARD,Sliding Window Maximum,100.0,0.0048890513005155,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Group Anagrams,100.0,0.007279902010228705,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Amount of Time for Binary Tree to Be Infected,100.0,0.006560101280136679,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"

@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.0047546181609751294,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Group Anagrams,92.2,0.00727988601252591,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Top K Frequent Elements,92.2,0.006670453869070502,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+EASY,Ransom Note,81.2,0.006609255742192295,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+MEDIUM,Merge Intervals,81.2,0.0052116547741606,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Longest Common Prefix,81.2,0.004778153593321326,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Remove All Adjacent Duplicates in String II,81.2,0.006146396534446704,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+MEDIUM,Generate Parentheses,81.2,0.007881145437859454,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+EASY,Climbing Stairs,81.2,0.0054157507594008855,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"

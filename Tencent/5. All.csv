@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Decode String,100.0,0.0062782173770233474,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+HARD,Remove Boxes,94.4,0.004947802282780167,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
+MEDIUM,Minimum Factorization,94.4,0.0034058651350306513,https://leetcode.com/problems/minimum-factorization,"Math, Greedy"
+MEDIUM,Department Highest Salary,60.3,0.005844219838173614,https://leetcode.com/problems/department-highest-salary,Database
+MEDIUM,LRU Cache,60.3,0.004754642143807361,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Valid Parentheses,60.3,0.004436557611945568,https://leetcode.com/problems/valid-parentheses,"String, Stack"

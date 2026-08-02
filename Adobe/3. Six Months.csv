@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Group Anagrams,100.0,0.007279875792801981,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,LRU Cache,100.0,0.004754602161061486,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Binary Tree Maximum Path Sum,91.4,0.0042429887473225646,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Game of Life,91.4,0.007272345636608332,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+EASY,Two Sum,79.4,0.005768893857769186,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Is Subsequence,79.4,0.004912548189589344,https://leetcode.com/problems/is-subsequence,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Heaters,79.4,0.004211217028886229,https://leetcode.com/problems/heaters,"Array, Two Pointers, Binary Search, Sorting"
+MEDIUM,Basic Calculator II,79.4,0.004697241897208869,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Gas Station,79.4,0.004819454024862979,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Flatten Nested List Iterator,79.4,0.006574435991685041,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Minimum Cost For Tickets,79.4,0.006743618708501535,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+MEDIUM,Largest Number,79.4,0.00432326842260842,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"

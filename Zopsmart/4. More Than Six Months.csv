@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Zigzag Conversion,100.0,0.0054381493414295354,https://leetcode.com/problems/zigzag-conversion,String
+HARD,Trapping Rain Water,91.9,0.0067615298025363625,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Bulls and Cows,71.5,0.005261834100358357,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+MEDIUM,Remove K Digits,67.0,0.0037086822851786715,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Reverse Words in a String,67.0,0.0056817131906484915,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Broken Calculator,61.3,0.005621759792626729,https://leetcode.com/problems/broken-calculator,"Math, Greedy"
+MEDIUM,Fraction Addition and Subtraction,53.3,0.006648646323276357,https://leetcode.com/problems/fraction-addition-and-subtraction,"Math, String, Simulation"
+MEDIUM,Reverse Nodes in Even Length Groups,53.3,0.006447893510458794,https://leetcode.com/problems/reverse-nodes-in-even-length-groups,Linked List
+MEDIUM,Container With Most Water,53.3,0.006024282542399735,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Letter Combinations of a Phone Number,53.3,0.006627797446695084,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Longest Palindromic Substring,53.3,0.003804657301544889,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Hexadecimal and Hexatrigesimal Conversion,53.3,0.008102860683672417,https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion,"Math, String"
+EASY,Valid Anagram,53.3,0.006826513874269858,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Decode String,53.3,0.006278226897777151,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"

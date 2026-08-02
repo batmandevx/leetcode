@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximize Distance to Closest Person,100.0,0.004985286770153162,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Valid Parentheses,84.6,0.004436559274735546,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Move Zeroes,79.7,0.006398872257912236,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Two Sum,79.7,0.005768896943827939,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Palindrome,73.3,0.005358828705148624,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Summary Ranges,73.3,0.005436249850753666,https://leetcode.com/problems/summary-ranges,Array
+MEDIUM,Longest Subarray of 1's After Deleting One Element,73.3,0.007128027942940481,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"
+MEDIUM,Longest Substring Without Repeating Characters,64.3,0.003929965776265169,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Compare Version Numbers,64.3,0.0046551350320584405,https://leetcode.com/problems/compare-version-numbers,"Two Pointers, String"
+MEDIUM,Merge Intervals,64.3,0.005211662279649603,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Symmetric Tree,64.3,0.006142830380638203,https://leetcode.com/problems/symmetric-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Best Time to Buy and Sell Stock,64.3,0.005696338702405084,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Permutation in String,64.3,0.004911065453851941,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"

@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Binary Tree Zigzag Level Order Traversal,100.0,0.006392143260161315,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Product of Array Except Self,80.6,0.006900165114910092,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+HARD,Reverse Nodes in k-Group,80.6,0.0066422037833157675,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Boats to Save People,80.6,0.006195526974070411,https://leetcode.com/problems/boats-to-save-people,"Array, Two Pointers, Greedy, Sorting"
+EASY,Valid Parentheses,80.6,0.004436555747276195,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,80.6,0.003929961158718206,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Min Stack,80.6,0.005831170093436112,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Best Time to Buy and Sell Stock II,80.6,0.007124017965115796,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+EASY,Best Time to Buy and Sell Stock,80.6,0.0056963337872581125,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Move Zeroes,80.6,0.0063988700772653175,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Rotting Oranges,80.6,0.005886916462992876,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"

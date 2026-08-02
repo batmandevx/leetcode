@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Count Square Sum Triples,100.0,0.007717188177731296,https://leetcode.com/problems/count-square-sum-triples,"Math, Enumeration"
+MEDIUM,Asteroid Collision,95.1,0.004821268996265892,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+HARD,Minimum Window Substring,64.9,0.004780066457164238,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Maximal Square,64.9,0.005047481509720062,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+EASY,Flood Fill,64.9,0.006845634660410457,https://leetcode.com/problems/flood-fill,"Array, Depth-First Search, Breadth-First Search, Matrix"

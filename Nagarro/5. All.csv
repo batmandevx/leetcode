@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Count Number of Ways to Place Houses,100.0,0.004399613034142658,https://leetcode.com/problems/count-number-of-ways-to-place-houses,Dynamic Programming
+EASY,Smallest Pair With Different Frequencies,94.9,0.006939917988946336,https://leetcode.com/problems/smallest-pair-with-different-frequencies,"Array, Hash Table, Counting"
+MEDIUM,Longest Substring Without Repeating Characters,72.5,0.00392995594959462,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Anagram,63.2,0.006826517524251698,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Implement Stack using Queues,63.2,0.007023049001174674,https://leetcode.com/problems/implement-stack-using-queues,"Stack, Design, Queue"
+MEDIUM,Sort Colors,63.2,0.0069875333589558995,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+EASY,Linked List Cycle,63.2,0.005455018994070554,https://leetcode.com/problems/linked-list-cycle,"Hash Table, Linked List, Two Pointers"
+MEDIUM,Using a Robot to Print the Lexicographically Smallest String,63.2,0.006226097025218384,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string,"Hash Table, String, Stack, Greedy"

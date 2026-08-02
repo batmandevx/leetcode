@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Top K Frequent Elements,100.0,0.006670449666830036,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Group Anagrams,93.4,0.007279876581103175,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Kth Largest Element in an Array,89.2,0.006903910470343683,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Add Two Numbers,77.4,0.004870105285270077,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Generate Parentheses,77.4,0.007881138106344736,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+EASY,Merge Sorted Array,77.4,0.005509617267494653,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Sum of Subarray Minimums,77.4,0.0038729517716470114,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Maximum Depth of Binary Tree,68.0,0.007830389443028864,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Product of Array Except Self,68.0,0.006900149580440774,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"

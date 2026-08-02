@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,100.0,0.005607177080923901,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
+MEDIUM,Search Suggestions System,92.2,0.006518412902607557,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+EASY,Valid Parentheses,73.8,0.004436559274735546,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Group Anagrams,73.8,0.007279897151569383,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Minimum Cost of Buying Candies With Discount,100.0,0.007156007253459539,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount,"Array, Greedy, Sorting"
+EASY,Valid Anagram,100.0,0.006826517524251698,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Valid Parentheses,100.0,0.0044365517718025224,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Check If It Is a Good Array,88.2,0.00650949032584218,https://leetcode.com/problems/check-if-it-is-a-good-array,"Array, Math, Number Theory"
+MEDIUM,Count Primes,88.2,0.003617586077952603,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+EASY,Longest Common Prefix,88.2,0.004778169631297497,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"

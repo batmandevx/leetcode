@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Merge Sorted Array,100.0,0.005509630082139076,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Check if All the Integers in a Range Are Covered,75.2,0.0051171624847179365,https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered,"Array, Hash Table, Prefix Sum"

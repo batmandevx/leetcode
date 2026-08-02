@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Maximum Profit in Job Scheduling,100.0,0.005477632342560363,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Design Excel Sum Formula,92.9,0.003961508596783139,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph Theory, Design, Topological Sort, Matrix"
+MEDIUM,Shortest Uncommon Substring in an Array,92.9,0.005097966038440007,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
+HARD,Maximum Candies You Can Get from Boxes,82.9,0.006726679405414795,https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes,"Array, Breadth-First Search, Graph Theory"
+MEDIUM,Detonate the Maximum Bombs,82.9,0.005023710185106552,https://leetcode.com/problems/detonate-the-maximum-bombs,"Array, Math, Depth-First Search, Breadth-First Search, Graph Theory, Geometry"

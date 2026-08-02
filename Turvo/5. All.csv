@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimum Difficulty of a Job Schedule,100.0,0.0059768831458865135,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule,"Array, Dynamic Programming"
+EASY,Count Good Triplets,100.0,0.008553542473618007,https://leetcode.com/problems/count-good-triplets,"Array, Enumeration"

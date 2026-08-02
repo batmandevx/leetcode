@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Valid Parentheses,100.0,0.004436541677338058,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Text Justification,100.0,0.005138932790173787,https://leetcode.com/problems/text-justification,"Array, String, Simulation"

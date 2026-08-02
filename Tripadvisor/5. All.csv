@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Valid Parentheses,100.0,0.004436557611945568,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Find Common Characters,96.3,0.007473216453458352,https://leetcode.com/problems/find-common-characters,"Array, Hash Table, String"
+MEDIUM,LRU Cache,71.6,0.004754642143807361,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Ransom Note,71.6,0.006609279577452939,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+MEDIUM,Search a 2D Matrix II,63.4,0.0057502191525016,https://leetcode.com/problems/search-a-2d-matrix-ii,"Array, Binary Search, Divide and Conquer, Matrix"
+MEDIUM,Min Stack,63.4,0.005831174616999922,https://leetcode.com/problems/min-stack,"Stack, Design"

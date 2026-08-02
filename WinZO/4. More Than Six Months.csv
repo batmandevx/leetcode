@@ -1,0 +1,2 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Smallest Range Covering Elements from K Lists,100.0,0.007017234986257865,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists,"Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)"

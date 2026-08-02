@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.005768896407290114,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,First Unique Character in a String,94.2,0.0065712277656194895,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+MEDIUM,Maximum Total Subarray Value I,76.1,0.0071913101307914,https://leetcode.com/problems/maximum-total-subarray-value-i,"Array, Greedy"
+EASY,Minimum Depth of Binary Tree,76.1,0.0053166198890628605,https://leetcode.com/problems/minimum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Palindrome Linked List,76.1,0.005821430420237833,https://leetcode.com/problems/palindrome-linked-list,"Linked List, Two Pointers, Stack, Recursion"
+EASY,Maximum Depth of Binary Tree,76.1,0.007830403067389843,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Find First and Last Position of Element in Sorted Array,76.1,0.004912169426549642,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+MEDIUM,Longest Palindromic Substring,76.1,0.003804654987635423,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Rotate Array,76.1,0.004510333025974378,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"

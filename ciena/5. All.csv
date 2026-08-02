@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Active Users,100.0,0.0036575709261787975,https://leetcode.com/problems/active-users,Database
+MEDIUM,Number of Unique Flavors After Sharing K Candies,100.0,0.006236152810849984,https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies,"Array, Hash Table, Sliding Window"
+EASY,Two Sum,100.0,0.0057688973334014786,https://leetcode.com/problems/two-sum,"Array, Hash Table"

@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Reward Top K Students,100.0,0.004715238737725807,https://leetcode.com/problems/reward-top-k-students,"Array, Hash Table, String, Sorting, Heap (Priority Queue)"
+HARD,Sliding Window Maximum,79.0,0.004889037036869425,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"

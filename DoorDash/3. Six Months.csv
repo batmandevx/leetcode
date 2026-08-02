@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Walls and Gates,100.0,0.006404498051101802,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"
+MEDIUM,Single-Threaded CPU,90.6,0.004777278434015549,https://leetcode.com/problems/single-threaded-cpu,"Array, Sorting, Heap (Priority Queue)"
+HARD,Maximum Profit in Job Scheduling,84.0,0.005477632342560363,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Longest Increasing Path in a Matrix,74.7,0.005674732424627451,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Matrix"
+MEDIUM,Design File System,74.7,0.006514262579197091,https://leetcode.com/problems/design-file-system,"Hash Table, String, Design, Trie"
+MEDIUM,132 Pattern,74.7,0.0034858545974922194,https://leetcode.com/problems/132-pattern,"Array, Binary Search, Stack, Monotonic Stack, Ordered Set"

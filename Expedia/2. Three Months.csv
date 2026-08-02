@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Remove Stones to Minimize the Total,100.0,0.0065838801577592036,https://leetcode.com/problems/remove-stones-to-minimize-the-total,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,Basic Calculator II,100.0,0.004697252260549352,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+HARD,LFU Cache,100.0,0.004951330792763133,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

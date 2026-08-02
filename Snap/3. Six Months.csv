@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Top K Frequent Elements,100.0,0.0066704676988251,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Number of Islands,89.8,0.006459363138580116,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,LRU Cache,89.8,0.004754641880119744,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Meeting Rooms II,72.5,0.00527230006470743,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+HARD,Basic Calculator III,72.5,0.005341223881607911,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
+HARD,Escape the Spreading Fire,72.5,0.003845692725413448,https://leetcode.com/problems/escape-the-spreading-fire,"Array, Binary Search, Breadth-First Search, Matrix"
+MEDIUM,Minimum Area Rectangle,72.5,0.0055402913066047825,https://leetcode.com/problems/minimum-area-rectangle,"Array, Hash Table, Math, Geometry, Sorting"
+MEDIUM,Design Hit Counter,72.5,0.006972119412697766,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+HARD,Merge k Sorted Lists,72.5,0.005981781172534715,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"

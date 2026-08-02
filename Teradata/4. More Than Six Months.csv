@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Remove Boxes,100.0,0.004947802282780167,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
+MEDIUM,Count Pairs in Two Arrays,67.9,0.006031761688695996,https://leetcode.com/problems/count-pairs-in-two-arrays,"Array, Two Pointers, Binary Search, Sorting"

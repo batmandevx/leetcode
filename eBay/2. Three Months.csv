@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Reverse Pairs,100.0,0.0034590179195207716,https://leetcode.com/problems/reverse-pairs,"Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set"
+MEDIUM,Alternating Groups II,100.0,0.006002829591570795,https://leetcode.com/problems/alternating-groups-ii,"Array, Sliding Window"

@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Daily Temperatures,100.0,0.006882760401312532,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Simplify Path,100.0,0.005080333243082499,https://leetcode.com/problems/simplify-path,"String, Stack"
+MEDIUM,House Robber,100.0,0.005332527590014431,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+EASY,Two Sum,87.7,0.005768897427264573,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Minimum Cost For Tickets,87.7,0.006743618708501535,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+MEDIUM,Reconstruct a 2-Row Binary Matrix,87.7,0.004908101605774073,https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix,"Array, Greedy, Matrix"
+MEDIUM,Adding Two Negabinary Numbers,87.7,0.0038033797284025873,https://leetcode.com/problems/adding-two-negabinary-numbers,"Array, Math"
+MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,87.7,0.004842712392829306,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters,"String, Dynamic Programming, Greedy"
+EASY,Valid Parentheses,87.7,0.004436548288513215,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,87.7,0.006374184174282618,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation, Simulation"
+MEDIUM,Accounts Merge,87.7,0.006152843460256589,https://leetcode.com/problems/accounts-merge,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting"
+MEDIUM,Subarray Sum Equals K,87.7,0.004756651589406008,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"

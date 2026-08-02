@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Valid Square,100.0,0.004527603647606641,https://leetcode.com/problems/valid-square,"Math, Geometry"
+MEDIUM,Palindromic Substrings,91.6,0.0072921458967226856,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+HARD,Design Skiplist,86.4,0.005981599548059075,https://leetcode.com/problems/design-skiplist,"Linked List, Design"
+EASY,Maximum Repeating Substring,76.4,0.004182855250326593,https://leetcode.com/problems/maximum-repeating-substring,"String, Dynamic Programming, String Matching"
+MEDIUM,Insert Delete GetRandom O(1),68.5,0.005540977404753059,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Longest Palindromic Substring,62.8,0.0038046517027292334,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Binary Search,54.9,0.006102401886661328,https://leetcode.com/problems/binary-search,"Array, Binary Search"
+MEDIUM,Detect Squares,54.9,0.005271647741228485,https://leetcode.com/problems/detect-squares,"Array, Hash Table, Design, Counting, Data Stream"

@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Network Delay Time,100.0,0.006076967916092941,https://leetcode.com/problems/network-delay-time,"Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path"
+MEDIUM,Group Anagrams,100.0,0.007279892459528706,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Restore IP Addresses,100.0,0.0056300104634950535,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
+MEDIUM,Koko Eating Bananas,100.0,0.0050152838342237705,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"

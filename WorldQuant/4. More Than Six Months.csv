@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Meeting Rooms II,100.0,0.005272302165786939,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+HARD,Regular Expression Matching,83.3,0.0031126361448315038,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+HARD,Minimum Number of Visited Cells in a Grid,83.3,0.002393275222767953,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid,"Array, Dynamic Programming, Stack, Breadth-First Search, Union-Find, Heap (Priority Queue), Matrix, Monotonic Stack"
+HARD,Find Median from Data Stream,83.3,0.005463240788892919,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Maximum Number of Pairs in Array,100.0,0.0076204846154470166,https://leetcode.com/problems/maximum-number-of-pairs-in-array,"Array, Hash Table, Counting"
+EASY,Two Sum,65.1,0.00576889423655172,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Swap Nodes in Pairs,65.1,0.006972750424659252,https://leetcode.com/problems/swap-nodes-in-pairs,"Linked List, Recursion"
+EASY,Valid Parentheses,65.1,0.004436541285767518,https://leetcode.com/problems/valid-parentheses,"String, Stack"

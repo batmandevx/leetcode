@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Shortest Subarray to be Removed to Make Array Sorted,100.0,0.005133790358248562,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted,"Array, Two Pointers, Binary Search, Stack, Monotonic Stack"
+MEDIUM,LRU Cache,93.2,0.004754644726036169,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Decode String,88.9,0.006278226897777151,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Merge Intervals,76.9,0.005211659924033122,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Minimum Total Cost to Make Arrays Unequal,76.9,0.004134761663286004,https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal,"Array, Hash Table, Greedy, Counting"
+MEDIUM,Most Beautiful Item for Each Query,67.3,0.006203111910163126,https://leetcode.com/problems/most-beautiful-item-for-each-query,"Array, Binary Search, Sorting"
+MEDIUM,Two Best Non-Overlapping Events,67.3,0.006399151481183244,https://leetcode.com/problems/two-best-non-overlapping-events,"Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue)"
+EASY,Excel Sheet Column Number,67.3,0.006794766671838909,https://leetcode.com/problems/excel-sheet-column-number,"Math, String"
+MEDIUM,Container With Most Water,67.3,0.006024282542399735,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Rotate Array,67.3,0.004510331976997677,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+EASY,First Unique Character in a String,67.3,0.006571225003128721,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+MEDIUM,Unique Paths,67.3,0.006695966272600916,https://leetcode.com/problems/unique-paths,"Math, Dynamic Programming, Combinatorics"

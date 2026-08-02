@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Find the Length of the Longest Common Prefix,100.0,0.0062273341931798395,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,"Array, Hash Table, String, Trie"
+MEDIUM,Rotting Oranges,93.0,0.005886915826836317,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,83.2,0.006463220538371047,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"

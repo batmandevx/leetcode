@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.00392995594959462,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Count Number of Ways to Place Houses,88.1,0.004399613034142658,https://leetcode.com/problems/count-number-of-ways-to-place-houses,Dynamic Programming
+EASY,Valid Anagram,88.1,0.006826517524251698,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Implement Stack using Queues,88.1,0.007023049001174674,https://leetcode.com/problems/implement-stack-using-queues,"Stack, Design, Queue"
+MEDIUM,Sort Colors,88.1,0.0069875333589558995,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"

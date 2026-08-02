@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Encrypt and Decrypt Strings,100.0,0.0038585057348054456,https://leetcode.com/problems/encrypt-and-decrypt-strings,"Array, Hash Table, String, Design, Trie"
+HARD,Longest Increasing Path in a Matrix,78.7,0.005674732424627451,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Matrix"
+MEDIUM,Minimum Number of People to Teach,68.8,0.006734022335488984,https://leetcode.com/problems/minimum-number-of-people-to-teach,"Array, Hash Table, Greedy"
+MEDIUM,Task Scheduler II,68.8,0.0054858911073454655,https://leetcode.com/problems/task-scheduler-ii,"Array, Hash Table, Simulation"
+MEDIUM,K Radius Subarray Averages,61.0,0.004630061997247078,https://leetcode.com/problems/k-radius-subarray-averages,"Array, Sliding Window"

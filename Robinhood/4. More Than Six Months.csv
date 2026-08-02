@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Top K Frequent Words,100.0,0.006029227983371165,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+MEDIUM,Restore the Array From Adjacent Pairs,75.3,0.007507274883572935,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs,"Array, Hash Table, Depth-First Search"
+MEDIUM,Ways to Split Array Into Three Subarrays,75.3,0.0034361229892079003,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum"
+HARD,Text Justification,75.3,0.0051389121242141214,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Minesweeper,75.3,0.006881276467530404,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Top K Frequent Elements,75.3,0.006670462277543824,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Number of Orders in the Backlog,66.2,0.005404325373932376,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"
+MEDIUM,Check if There is a Valid Path in a Grid,66.2,0.006448124689740967,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Count Good Meals,66.2,0.0032924770817303966,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
+MEDIUM,Capital Gain/Loss,66.2,0.008464341944136684,https://leetcode.com/problems/capital-gainloss,Database
+EASY,Count the Number of Consistent Strings,66.2,0.008851821466323778,https://leetcode.com/problems/count-the-number-of-consistent-strings,"Array, Hash Table, String, Bit Manipulation, Counting"
+MEDIUM,Brightest Position on Street,66.2,0.006069428501860934,https://leetcode.com/problems/brightest-position-on-street,"Array, Sorting, Prefix Sum, Ordered Set"
+EASY,Defanging an IP Address,66.2,0.009007284695738,https://leetcode.com/problems/defanging-an-ip-address,String
+MEDIUM,Employee Importance,66.2,0.0069538040453026116,https://leetcode.com/problems/employee-importance,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"

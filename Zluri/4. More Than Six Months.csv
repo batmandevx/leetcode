@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Array Hopping Score I,100.0,0.007708392201186775,https://leetcode.com/problems/maximum-array-hopping-score-i,"Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+MEDIUM,Maximum Array Hopping Score II,100.0,0.00597609561752988,https://leetcode.com/problems/maximum-array-hopping-score-ii,"Array, Stack, Greedy, Monotonic Stack"

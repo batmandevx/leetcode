@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Time Needed to Rearrange a Binary String,100.0,0.005331520210072212,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string,"String, Dynamic Programming, Simulation"
+MEDIUM,Minimum Operations to Reduce an Integer to 0,96.7,0.006274142312579416,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
+MEDIUM,String Compression,88.4,0.0060212023405973,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,LFU Cache,82.9,0.004951394404343435,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Maximum Palindromes After Operations,75.8,0.004701909498372936,https://leetcode.com/problems/maximum-palindromes-after-operations,"Array, Hash Table, String, Greedy, Sorting, Counting"
+MEDIUM,Maximum Team Size with Overlapping Intervals,75.8,0.004519140989729225,https://leetcode.com/problems/maximum-team-size-with-overlapping-intervals,
+HARD,Minimum Replacements to Sort the Array,65.8,0.005312808727395024,https://leetcode.com/problems/minimum-replacements-to-sort-the-array,"Array, Math, Greedy"
+HARD,Minimum Edge Reversals So Every Node Is Reachable,65.8,0.005980445928222249,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory"
+MEDIUM,Subarray Sum Equals K,65.8,0.0047566736932170865,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+EASY,Maximum Product of Three Numbers,65.8,0.0046034735585440715,https://leetcode.com/problems/maximum-product-of-three-numbers,"Array, Math, Sorting"

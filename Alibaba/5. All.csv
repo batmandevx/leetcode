@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Split Array with Equal Sum,100.0,0.00500688196924059,https://leetcode.com/problems/split-array-with-equal-sum,"Array, Hash Table, Prefix Sum"
+MEDIUM,Split Concatenated Strings,100.0,0.004359224414869206,https://leetcode.com/problems/split-concatenated-strings,"Array, String, Greedy"
+MEDIUM,Path Sum IV,100.0,0.006288013235072943,https://leetcode.com/problems/path-sum-iv,"Array, Hash Table, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Valid Parenthesis String,100.0,0.004022651854084263,https://leetcode.com/problems/valid-parenthesis-string,"String, Dynamic Programming, Stack, Greedy"
+MEDIUM,Kth Largest Element in an Array,63.7,0.006903909892157134,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"

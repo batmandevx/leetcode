@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest String Chain,100.0,0.006316917092867707,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+MEDIUM,Design a Stack With Increment Operation,92.3,0.007990639418715736,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+MEDIUM,Number of Islands,92.3,0.006459357847023438,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Single Element in a Sorted Array,81.5,0.005930893467232633,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"
+HARD,Trapping Rain Water,81.5,0.006761517001545453,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,81.5,0.00577954228841431,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,"Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue"
+HARD,Making A Large Island,81.5,0.00567938649245694,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,LRU Cache,81.5,0.0047546323694833215,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Check if a Parentheses String Can Be Valid,81.5,0.00452116744809877,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid,"String, Stack, Greedy"
+MEDIUM,Surrounded Regions,81.5,0.004560889562875062,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"

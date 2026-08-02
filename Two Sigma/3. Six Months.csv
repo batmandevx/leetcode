@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Multiply Strings,100.0,0.004433669912083149,https://leetcode.com/problems/multiply-strings,"Math, String, Simulation"
+HARD,Parallel Courses III,100.0,0.0066834452843105895,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph Theory, Topological Sort"
+EASY,Valid Parentheses,89.6,0.004436559274735546,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Random Pick with Weight,89.6,0.004912308707924108,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+MEDIUM,House Robber III,89.6,0.005601661050969073,https://leetcode.com/problems/house-robber-iii,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Minimum Absolute Difference,100.0,0.007515234271846932,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"
+EASY,Missing Number In Arithmetic Progression,100.0,0.0052226379642677815,https://leetcode.com/problems/missing-number-in-arithmetic-progression,"Array, Math"
+MEDIUM,Leetflex Banned Accounts,100.0,0.006173204299369373,https://leetcode.com/problems/leetflex-banned-accounts,Database
+MEDIUM,Reorganize String,100.0,0.005723977460682347,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"

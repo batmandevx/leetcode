@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Parallel Courses III,100.0,0.0066834452843105895,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph Theory, Topological Sort"
+MEDIUM,Throne Inheritance,95.4,0.00673621594826615,https://leetcode.com/problems/throne-inheritance,"Hash Table, Tree, Depth-First Search, Design"
+EASY,Count Vowel Substrings of a String,89.9,0.007324854178684907,https://leetcode.com/problems/count-vowel-substrings-of-a-string,"Hash Table, String"
+MEDIUM,Course Schedule II,72.5,0.00557407017428127,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+EASY,Shortest Word Distance,72.5,0.006634811591171748,https://leetcode.com/problems/shortest-word-distance,"Array, String"
+HARD,Design In-Memory File System,72.5,0.004833522512296632,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+MEDIUM,Most Frequent IDs,72.5,0.004305933046072258,https://leetcode.com/problems/most-frequent-ids,"Array, Hash Table, Heap (Priority Queue), Ordered Set"
+MEDIUM,Possible Bipartition,72.5,0.005273071477123775,https://leetcode.com/problems/possible-bipartition,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+MEDIUM,Parallel Courses,72.5,0.006229483711436016,https://leetcode.com/problems/parallel-courses,"Graph Theory, Topological Sort"
+EASY,Calculate Amount Paid in Taxes,72.5,0.006945844872067979,https://leetcode.com/problems/calculate-amount-paid-in-taxes,"Array, Simulation"
+EASY,Happy Number,72.5,0.005983055344987514,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"

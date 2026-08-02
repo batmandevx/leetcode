@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Group Anagrams,100.0,0.007279897151569383,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Jump Game,100.0,0.004106532520524852,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+HARD,Guess the Word,100.0,0.0036681743870377475,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Interactive, Game Theory"
+MEDIUM,Find All Possible Recipes from Given Supplies,100.0,0.005696999297175599,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies,"Array, Hash Table, String, Graph Theory, Topological Sort"
+MEDIUM,Minimum Area Rectangle,100.0,0.0055402913066047825,https://leetcode.com/problems/minimum-area-rectangle,"Array, Hash Table, Math, Geometry, Sorting"
+EASY,Happy Number,88.5,0.005983063599866116,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Kth Largest Element in an Array,88.5,0.00690392128960982,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Longest String Chain,88.5,0.006316918327344774,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+MEDIUM,Minimum Area Rectangle II,88.5,0.005592988013829026,https://leetcode.com/problems/minimum-area-rectangle-ii,"Array, Hash Table, Math, Geometry"
+MEDIUM,Minimum Knight Moves,88.5,0.004199291637871459,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+MEDIUM,Video Stitching,88.5,0.005275990972339669,https://leetcode.com/problems/video-stitching,"Array, Dynamic Programming, Greedy"
+MEDIUM,Find Original Array From Doubled Array,88.5,0.004083169460311515,https://leetcode.com/problems/find-original-array-from-doubled-array,"Array, Hash Table, Greedy, Sorting"

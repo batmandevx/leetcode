@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Game of Life,100.0,0.007272345636608332,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+MEDIUM,Gas Station,100.0,0.004819454024862979,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Flatten Nested List Iterator,100.0,0.006574435991685041,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Minimum Cost For Tickets,100.0,0.006743618708501535,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"

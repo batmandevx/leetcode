@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Longest Increasing Path in a Matrix,100.0,0.005674732424627451,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Matrix"
+MEDIUM,132 Pattern,100.0,0.0034858545974922194,https://leetcode.com/problems/132-pattern,"Array, Binary Search, Stack, Monotonic Stack, Ordered Set"

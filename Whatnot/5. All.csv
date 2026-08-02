@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Valid Palindrome II,100.0,0.004438466230969941,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
+EASY,Remove All Adjacent Duplicates In String,91.3,0.007345639574308857,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
+MEDIUM,Number of Islands,85.2,0.006459367170574068,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Knight Dialer,85.2,0.006197613295173749,https://leetcode.com/problems/knight-dialer,Dynamic Programming
+EASY,Squares of a Sorted Array,76.5,0.0073858265820869766,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Analyze User Website Visit Pattern,76.5,0.004430670862346009,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, String, Sorting"
+MEDIUM,Group Anagrams,61.7,0.007279900792623488,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Search a 2D Matrix II,61.7,0.005750221394450705,https://leetcode.com/problems/search-a-2d-matrix-ii,"Array, Binary Search, Divide and Conquer, Matrix"
+MEDIUM,Word Search,61.7,0.0047587546118526385,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Maximal Square,61.7,0.005047494597175454,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Meeting Rooms II,61.7,0.005272302165786939,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,K Closest Points to Origin,61.7,0.006910637522525477,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
+EASY,First Bad Version,61.7,0.004727350196542515,https://leetcode.com/problems/first-bad-version,"Binary Search, Interactive"

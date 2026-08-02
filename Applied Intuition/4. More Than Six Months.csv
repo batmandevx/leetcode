@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Shortest Distance from All Buildings,100.0,0.004495227128464706,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"
+MEDIUM,Find Duplicate File in System,73.8,0.0067497918103269616,https://leetcode.com/problems/find-duplicate-file-in-system,"Array, Hash Table, String"
+MEDIUM,Find First and Last Position of Element in Sorted Array,71.4,0.00491214767986976,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+HARD,Best Meeting Point,68.6,0.006146239851426133,https://leetcode.com/problems/best-meeting-point,"Array, Math, Sorting, Matrix"
+MEDIUM,Merge Intervals,65.3,0.005211651885832463,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Minesweeper,61.2,0.006881266141315144,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+HARD,Word Abbreviation,56.0,0.006274643601423751,https://leetcode.com/problems/word-abbreviation,"Array, String, Greedy, Trie, Sorting"
+MEDIUM,Design Circular Queue,48.7,0.005487023809656528,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+MEDIUM,Shortest Path in Binary Matrix,48.7,0.005173010874425597,https://leetcode.com/problems/shortest-path-in-binary-matrix,"Array, Breadth-First Search, Matrix"
+MEDIUM,Game of Life,48.7,0.007272345636608332,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"

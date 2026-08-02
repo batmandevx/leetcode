@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimum Moves to Spread Stones Over Grid,100.0,0.004580756013745704,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Matrix, Bitmask"
+MEDIUM,Minimum Number of Operations to Sort a Binary Tree by Level,100.0,0.007424445484683899,https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Construct the Longest New String,100.0,0.0054936500611921435,https://leetcode.com/problems/construct-the-longest-new-string,"Math, Dynamic Programming, Greedy, Brainteaser"
+MEDIUM,Get Watched Videos by Your Friends,89.1,0.005338236010324843,https://leetcode.com/problems/get-watched-videos-by-your-friends,"Array, Hash Table, Breadth-First Search, Graph Theory, Sorting"
+MEDIUM,Print Words Vertically,89.1,0.006775433078854592,https://leetcode.com/problems/print-words-vertically,"Array, String, Simulation"

@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Count Binary Substrings,100.0,0.007047064414233933,https://leetcode.com/problems/count-binary-substrings,"Two Pointers, String"
+MEDIUM,Break a Palindrome,76.0,0.005160599903041806,https://leetcode.com/problems/break-a-palindrome,"String, Greedy"
+MEDIUM,Longest Substring Without Repeating Characters,69.7,0.003929945534371603,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Two Sum,69.7,0.00576889963805245,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Group Anagrams,69.7,0.007279883851752817,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Minimum Value to Get Positive Step by Step Sum,69.7,0.006477908924596091,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum,"Array, Prefix Sum"
+EASY,Delete Duplicate Emails,60.8,0.006620151454145021,https://leetcode.com/problems/delete-duplicate-emails,Database
+HARD,Department Top Three Salaries,60.8,0.006080134796279835,https://leetcode.com/problems/department-top-three-salaries,Database
+EASY,Valid Anagram,60.8,0.006826518854320111,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Maximum Subarray,60.8,0.005347371829791508,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

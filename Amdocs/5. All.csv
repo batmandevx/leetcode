@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Divisible Substrings,100.0,0.007461599054745963,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+MEDIUM,Design a 3D Binary Matrix with Efficient Layer Tracking,100.0,0.006619099890230515,https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking,"Array, Hash Table, Design, Heap (Priority Queue), Matrix, Ordered Set"
+EASY,Construct Uniform Parity Array I,97.6,0.007648439464639973,https://leetcode.com/problems/construct-uniform-parity-array-i,"Array, Math"
+MEDIUM,Construct Uniform Parity Array II,95.0,0.0050139385651167675,https://leetcode.com/problems/construct-uniform-parity-array-ii,"Array, Math"
+EASY,Single Number,63.7,0.00778627926203043,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"

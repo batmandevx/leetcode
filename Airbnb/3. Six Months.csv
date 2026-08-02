@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Maximum Profit in Job Scheduling,100.0,0.005477632342560363,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Design Excel Sum Formula,94.3,0.003961508596783139,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph Theory, Design, Topological Sort, Matrix"
+HARD,Maximum Candies You Can Get from Boxes,86.6,0.006726679405414795,https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes,"Array, Breadth-First Search, Graph Theory"
+MEDIUM,Shortest Uncommon Substring in an Array,86.6,0.005097966038440007,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
+MEDIUM,Shopping Offers,81.5,0.005257352486297218,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
+MEDIUM,Accounts Merge,81.5,0.006152832422569101,https://leetcode.com/problems/accounts-merge,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting"
+MEDIUM,Smallest Common Region,65.7,0.0068321584186474904,https://leetcode.com/problems/smallest-common-region,"Array, Hash Table, String, Tree, Depth-First Search, Breadth-First Search"
+HARD,Minimum Cost to Reach Destination in Time,65.7,0.004177594604720869,https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time,"Array, Dynamic Programming, Graph Theory"
+EASY,Intersection of Two Linked Lists,65.7,0.006403111859299034,https://leetcode.com/problems/intersection-of-two-linked-lists,"Hash Table, Linked List, Two Pointers"
+HARD,Text Justification,65.7,0.005138932790173787,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Detonate the Maximum Bombs,65.7,0.005023710185106552,https://leetcode.com/problems/detonate-the-maximum-bombs,"Array, Math, Depth-First Search, Breadth-First Search, Graph Theory, Geometry"

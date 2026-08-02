@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Islands,100.0,0.006459365868315838,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+EASY,Valid Parentheses,100.0,0.004436541677338058,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Text Justification,100.0,0.005138932790173787,https://leetcode.com/problems/text-justification,"Array, String, Simulation"

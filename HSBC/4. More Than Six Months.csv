@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Palindromic Substring,100.0,0.0038046377204995502,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Battleships in a Board,100.0,0.0077589232683578395,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
+EASY,Maximum 69 Number,92.3,0.008456247313088678,https://leetcode.com/problems/maximum-69-number,"Math, Greedy"
+EASY,Longest Common Prefix,81.6,0.00477815753118836,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Climbing Stairs,81.6,0.00541575230890925,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+EASY,Best Time to Buy and Sell Stock,81.6,0.0056963183901500266,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

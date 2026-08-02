@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimum Penalty for a Shop,100.0,0.007124825146547412,https://leetcode.com/problems/minimum-penalty-for-a-shop,"String, Prefix Sum"
+EASY,Calculate Amount Paid in Taxes,89.3,0.006945844872067979,https://leetcode.com/problems/calculate-amount-paid-in-taxes,"Array, Simulation"
+MEDIUM,Evaluate Division,86.4,0.006432727211422172,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path"
+MEDIUM,Invalid Transactions,86.4,0.003235064503626599,https://leetcode.com/problems/invalid-transactions,"Array, Hash Table, String, Sorting"
+MEDIUM,Brace Expansion,83.0,0.006687939878325182,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Stack, Breadth-First Search, Sorting"
+MEDIUM,Cheapest Flights Within K Stops,79.0,0.004204856649951411,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path"
+HARD,Parallel Courses III,58.8,0.0066834452843105895,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph Theory, Topological Sort"
+MEDIUM,One Edit Distance,58.8,0.0034575111514326758,https://leetcode.com/problems/one-edit-distance,"Two Pointers, String"
+MEDIUM,Number of Black Blocks,58.8,0.004195066171784202,https://leetcode.com/problems/number-of-black-blocks,"Array, Hash Table, Enumeration"
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,58.8,0.00462854941668501,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+MEDIUM,Simple Bank System,58.8,0.006966624704013428,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"

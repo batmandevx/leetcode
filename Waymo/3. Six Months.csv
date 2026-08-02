@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Number of Visible People in a Queue,100.0,0.007325095481712732,https://leetcode.com/problems/number-of-visible-people-in-a-queue,"Array, Stack, Monotonic Stack"
+MEDIUM,Random Pick with Weight,100.0,0.004912308707924108,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+MEDIUM,Number of Islands,100.0,0.006459367170574068,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+HARD,Minimum Number of Refueling Stops,92.2,0.004158713672617531,https://leetcode.com/problems/minimum-number-of-refueling-stops,"Array, Dynamic Programming, Greedy, Heap (Priority Queue)"
+EASY,Logger Rate Limiter,92.2,0.007685429606125137,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Maximum Gap,81.2,0.005232611446824357,https://leetcode.com/problems/maximum-gap,"Array, Sorting, Bucket Sort, Radix Sort"

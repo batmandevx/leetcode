@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Design Authentication Manager,100.0,0.005866809047665276,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Find Words Containing Character,98.0,0.009038813262904009,https://leetcode.com/problems/find-words-containing-character,"Array, String"
+EASY,Logger Rate Limiter,73.2,0.007685509772622743,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+HARD,Vertical Order Traversal of a Binary Tree,64.8,0.005404394199486411,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree"
+MEDIUM,Count Number of Nice Subarrays,64.8,0.007532541369119826,https://leetcode.com/problems/count-number-of-nice-subarrays,"Array, Hash Table, Math, Sliding Window, Prefix Sum"
+HARD,Remove Invalid Parentheses,64.8,0.004999960797842313,https://leetcode.com/problems/remove-invalid-parentheses,"String, Backtracking, Breadth-First Search"

@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Escape a Large Maze,100.0,0.003671767214348426,https://leetcode.com/problems/escape-a-large-maze,"Array, Hash Table, Depth-First Search, Breadth-First Search"
+MEDIUM,Sorting Three Groups,87.6,0.0043193221094882375,https://leetcode.com/problems/sorting-three-groups,"Array, Binary Search, Dynamic Programming"
+MEDIUM,As Far from Land as Possible,87.6,0.00523300218574075,https://leetcode.com/problems/as-far-from-land-as-possible,"Array, Dynamic Programming, Breadth-First Search, Matrix"
+HARD,Making A Large Island,87.6,0.005679364168438762,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Boats to Save People,87.6,0.006195526974070411,https://leetcode.com/problems/boats-to-save-people,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Satisfiability of Equality Equations,87.6,0.005194700802011375,https://leetcode.com/problems/satisfiability-of-equality-equations,"Array, String, Union-Find, Graph Theory"
+MEDIUM,Longest Repeating Character Replacement,87.6,0.0059928090597762985,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+HARD,Burst Balloons,87.6,0.006375946302908593,https://leetcode.com/problems/burst-balloons,"Array, Dynamic Programming"
+HARD,Collect Coins in a Tree,87.6,0.004038878337615908,https://leetcode.com/problems/collect-coins-in-a-tree,"Array, Tree, Graph Theory, Topological Sort"
+MEDIUM,Subsets II,87.6,0.006149626752849515,https://leetcode.com/problems/subsets-ii,"Array, Backtracking, Bit Manipulation"
+MEDIUM,Integer to Roman,87.6,0.007117969028918968,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+HARD,Russian Doll Envelopes,87.6,0.0037970827927343498,https://leetcode.com/problems/russian-doll-envelopes,"Array, Binary Search, Dynamic Programming, Sorting"

@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Minimum Cost of Buying Candies With Discount,100.0,0.007156002829400039,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount,"Array, Greedy, Sorting"
+EASY,Delete Columns to Make Sorted,89.4,0.007815988208804029,https://leetcode.com/problems/delete-columns-to-make-sorted,"Array, String"
+EASY,Palindrome Number,89.4,0.006069292450980635,https://leetcode.com/problems/palindrome-number,Math
+EASY,Two Sum,89.4,0.0057688993596459025,https://leetcode.com/problems/two-sum,"Array, Hash Table"

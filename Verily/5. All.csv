@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Logger Rate Limiter,100.0,0.007685429606125137,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+HARD,Guess the Word,92.2,0.0036681743870377475,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Interactive, Game Theory"
+MEDIUM,Find All Possible Recipes from Given Supplies,92.2,0.005696999297175599,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies,"Array, Hash Table, String, Graph Theory, Topological Sort"
+MEDIUM,Group Anagrams,92.2,0.007279897151569383,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Jump Game,92.2,0.004106532520524852,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Minimum Area Rectangle,92.2,0.0055402913066047825,https://leetcode.com/problems/minimum-area-rectangle,"Array, Hash Table, Math, Geometry, Sorting"
+EASY,Happy Number,81.2,0.005983063599866116,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Find Original Array From Doubled Array,81.2,0.004083169460311515,https://leetcode.com/problems/find-original-array-from-doubled-array,"Array, Hash Table, Greedy, Sorting"
+MEDIUM,Longest String Chain,81.2,0.006316918327344774,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+MEDIUM,Minimum Area Rectangle II,81.2,0.005592988013829026,https://leetcode.com/problems/minimum-area-rectangle-ii,"Array, Hash Table, Math, Geometry"
+MEDIUM,Minimum Knight Moves,81.2,0.004199291637871459,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+MEDIUM,Video Stitching,81.2,0.005275990972339669,https://leetcode.com/problems/video-stitching,"Array, Dynamic Programming, Greedy"
+MEDIUM,Kth Largest Element in an Array,81.2,0.00690392128960982,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,LRU Cache,81.2,0.0047546407921135415,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Russian Doll Envelopes,81.2,0.0037970827927343498,https://leetcode.com/problems/russian-doll-envelopes,"Array, Binary Search, Dynamic Programming, Sorting"

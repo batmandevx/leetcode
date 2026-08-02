@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Reverse Nodes in k-Group,100.0,0.006642206560247365,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,LRU Cache,100.0,0.004754635039660335,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Last Substring in Lexicographical Order,87.8,0.003509699752397894,https://leetcode.com/problems/last-substring-in-lexicographical-order,"Two Pointers, String"
+MEDIUM,Longest Substring Without Repeating Characters,87.8,0.00392995905210224,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Parentheses,87.8,0.00443655630815049,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Palindrome Number,87.8,0.006069184257773654,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Peak Index in a Mountain Array,87.8,0.006677215447584828,https://leetcode.com/problems/peak-index-in-a-mountain-array,"Array, Binary Search"
+MEDIUM,Unique Paths,87.8,0.006695968780683938,https://leetcode.com/problems/unique-paths,"Math, Dynamic Programming, Combinatorics"
+EASY,Two Sum,87.8,0.005768899991130365,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Number of Islands,87.8,0.006459359924522571,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"

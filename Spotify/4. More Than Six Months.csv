@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Moving Average from Data Stream,100.0,0.008022783188568897,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Analyze User Website Visit Pattern,81.6,0.004430685694582534,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, String, Sorting"
+EASY,Two Sum,79.3,0.005768895578172673,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Kth Largest Element in an Array,79.3,0.006903921821281777,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Valid Parentheses,76.7,0.004436556203402231,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,70.1,0.003929961301885925,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Sliding Window Median,65.7,0.0039009267992190246,https://leetcode.com/problems/sliding-window-median,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+EASY,Ransom Note,60.1,0.006609277339915619,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+EASY,Fibonacci Number,60.1,0.0074264182824234784,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+HARD,Leetcodify Similar Friends,52.1,0.0043336241683935,https://leetcode.com/problems/leetcodify-similar-friends,Database
+HARD,Leetcodify Friends Recommendations,52.1,0.002882706291495416,https://leetcode.com/problems/leetcodify-friends-recommendations,Database
+HARD,Find Median from Data Stream,52.1,0.0054632404258080705,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Maximum Depth of Binary Tree,52.1,0.007830406438229614,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"

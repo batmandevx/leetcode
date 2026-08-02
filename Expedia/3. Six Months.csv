@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Count and Say,100.0,0.006312769813361002,https://leetcode.com/problems/count-and-say,String
+MEDIUM,Remove Stones to Minimize the Total,91.7,0.0065838801577592036,https://leetcode.com/problems/remove-stones-to-minimize-the-total,"Array, Greedy, Heap (Priority Queue)"
+HARD,Sliding Window Maximum,91.7,0.004889038984636211,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Group Anagrams,91.7,0.00727988601252591,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Merge Intervals,91.7,0.0052116547741606,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Find Pivot Index,80.1,0.0063007157115873265,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
+MEDIUM,House Robber,80.1,0.005332529048814276,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+MEDIUM,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,80.1,0.004146803203115127,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts,"Array, Greedy, Sorting"
+MEDIUM,Max Area of Island,80.1,0.0074064272079134305,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Basic Calculator II,80.1,0.004697252260549352,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Find the Smallest Divisor Given a Threshold,80.1,0.006619242325982077,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"
+HARD,LFU Cache,80.1,0.004951330792763133,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Two Sum,80.1,0.005768899030607455,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,LRU Cache,80.1,0.0047546181609751294,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Maximum Frequency Stack,80.1,0.00668842588195338,https://leetcode.com/problems/maximum-frequency-stack,"Hash Table, Stack, Design, Ordered Set"
+MEDIUM,Koko Eating Bananas,80.1,0.0050152659008602715,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Capacity To Ship Packages Within D Days,80.1,0.007414279797019523,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"

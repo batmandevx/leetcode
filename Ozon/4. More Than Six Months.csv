@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Monotonic Array,100.0,0.006238907438205385,https://leetcode.com/problems/monotonic-array,Array
+MEDIUM,Decode String,90.2,0.006278207856220835,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+EASY,Valid Parentheses,83.3,0.004436554266008816,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Department Top Three Salaries,83.3,0.006080121066960077,https://leetcode.com/problems/department-top-three-salaries,Database
+MEDIUM,Merge Intervals,73.5,0.0052116596058579216,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Best Time to Buy and Sell Stock,73.5,0.005696328872087197,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Anagram,73.5,0.006826516976142911,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,73.5,0.003929958114427928,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Two Sum,73.5,0.005768899462694785,https://leetcode.com/problems/two-sum,"Array, Hash Table"

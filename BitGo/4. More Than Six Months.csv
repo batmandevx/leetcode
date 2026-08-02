@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Gas Station,100.0,0.004819449133443973,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Number of Islands,86.5,0.006459365868315838,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,LRU Cache,86.5,0.004754602248973366,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Bus Routes,79.6,0.004736631510483089,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+HARD,Check if an Original String Exists Given Two Encoded Strings,69.9,0.004348981399468556,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"
+HARD,Trapping Rain Water,69.9,0.006761507877094043,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Course Schedule,69.9,0.00516492523848648,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,69.9,0.006956351304276016,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Subarray Sum Equals K,69.9,0.004756646363860969,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+HARD,Largest Rectangle in Histogram,69.9,0.005018768582601601,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+MEDIUM,Longest Palindromic Substring,69.9,0.0038046337004608564,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,69.9,0.003929939127851244,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

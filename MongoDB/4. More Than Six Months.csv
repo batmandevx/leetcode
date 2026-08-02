@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Implement Trie (Prefix Tree),100.0,0.006966368984336239,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Word Break,93.9,0.004958115607305286,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+EASY,Intersection of Two Arrays,93.9,0.007793575891192581,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
+HARD,Text Justification,85.8,0.005138912766775961,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+HARD,Merge k Sorted Lists,80.4,0.005981770933714283,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+HARD,Convert JSON String to Object,80.4,0.006211734693877551,https://leetcode.com/problems/convert-json-string-to-object,
+MEDIUM,Insert Interval,73.5,0.004541527932640614,https://leetcode.com/problems/insert-interval,Array
+MEDIUM,Web Crawler Multithreaded,73.5,0.005124413701615578,https://leetcode.com/problems/web-crawler-multithreaded,"Depth-First Search, Breadth-First Search, Concurrency"
+MEDIUM,Stock Price Fluctuation ,73.5,0.004910813552048997,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+MEDIUM,Snapshot Array,73.5,0.003675117019767636,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+EASY,Merge Two Binary Trees,63.8,0.007909665891008208,https://leetcode.com/problems/merge-two-binary-trees,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+HARD,Sliding Window Maximum,63.8,0.004889040365542707,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,63.8,0.006956372667002738,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
+HARD,Design Search Autocomplete System,63.8,0.004999676647481084,https://leetcode.com/problems/design-search-autocomplete-system,"String, Depth-First Search, Design, Trie, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Course Schedule II,63.8,0.005574064248206421,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+MEDIUM,Lowest Common Ancestor of a Binary Tree III,63.8,0.008300866614514015,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii,"Hash Table, Two Pointers, Tree, Binary Tree"
+MEDIUM,String Compression,63.8,0.006021206845680404,https://leetcode.com/problems/string-compression,"Two Pointers, String"
